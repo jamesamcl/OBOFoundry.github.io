@@ -3045,6 +3045,7 @@ ontologies:
     label: Bill Hogan
     orcid: 0000-0002-9881-1017
   description: An ontology of geographical entities
+  domain: environment
   homepage: https://github.com/ufbmi/geographical-entity-ontology/wiki
   id: geo
   layout: ontology_detail
@@ -5548,6 +5549,10 @@ ontologies:
     ontology_purl: http://purl.obolibrary.org/obo/phipo.owl
   - id: phipo.obo
     ontology_purl: http://purl.obolibrary.org/obo/phipo.obo
+  publications:
+  - id: https://www.ncbi.nlm.nih.gov/pubmed/34788826
+    title: 'PHI-base in 2022: a multi-species phenotype database for Pathogen-Host
+      Interactions'
   repository: https://github.com/PHI-base/phipo
   title: Pathogen Host Interaction Phenotype Ontology
   tracker: https://github.com/PHI-base/phipo/issues

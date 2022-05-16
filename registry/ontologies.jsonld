@@ -4324,6 +4324,7 @@
                 "orcid": "0000-0002-9881-1017"
             },
             "description": "An ontology of geographical entities",
+            "domain": "environment",
             "homepage": "https://github.com/ufbmi/geographical-entity-ontology/wiki",
             "id": "geo",
             "layout": "ontology_detail",
@@ -7753,6 +7754,12 @@
                 {
                     "id": "phipo.obo",
                     "ontology_purl": "http://purl.obolibrary.org/obo/phipo.obo"
+                }
+            ],
+            "publications": [
+                {
+                    "id": "https://www.ncbi.nlm.nih.gov/pubmed/34788826",
+                    "title": "PHI-base in 2022: a multi-species phenotype database for Pathogen-Host Interactions"
                 }
             ],
             "repository": "https://github.com/PHI-base/phipo",
